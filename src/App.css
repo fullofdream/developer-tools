@@ -13,11 +13,11 @@
 }
 
 .card {
-    border: 1px solid transparent;
+    border: 2px solid transparent;
 }
 
 .card-invalid {
-    border: 1px solid #ef9a9a;
+    border: 2px solid #ef9a9a;
 }
 
 .border-top {
